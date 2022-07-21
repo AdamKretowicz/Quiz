@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[CreateAssetMenu(menuName = "QuizQuestion", fileName = "New Question")]
+public class QuestionSO : ScriptableObject
+{
+    [TextArea(2, 6)]
+    [SerializeField] string question = "new question text";
+
+
+}
