@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f73f334131eef454eb63232b3610e5df, type: 3}
   m_Name: Question4
   m_EditorClassIdentifier: 
-  question: new question text
+  question: 4.What's the name of Thor's hammer?
+  answers:
+  - "Mj\xF6llnir"
+  - "Sk\xED\xF0bla\xF0ni"
+  - Gungnir
+  - Divine Sunderer
+  correctAnswerIndex: 0
