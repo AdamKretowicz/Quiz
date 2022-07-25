@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f73f334131eef454eb63232b3610e5df, type: 3}
   m_Name: Question3
   m_EditorClassIdentifier: 
-  question: 3.Who is the norse god of war?
+  question: 3.Who is the nordic god of war?
   answers:
   - Kratos
   - Ares
